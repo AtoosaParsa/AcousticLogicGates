@@ -1,0 +1,3611 @@
+Starting sbatch script myscript.sh at:Mon Nov 22 13:39:22 EST 2021
+  running host:    node336
+  assigned nodes:  node336
+  partition used:  bluemoon
+  jobid:           6779725
+*********************************************************
+run: 1
+we have
+128
+cores
+Generation 0 of 200:  fitness: -1.219501265224227 age: 0
+Average -0.7166228202265235
+
+we have
+128
+cores
+Generation 1 of 200:  fitness: -1.219501265224227 age: 1
+Average -0.7914448061237909
+
+we have
+128
+cores
+Generation 2 of 200:  fitness: -2.2827690277546964 age: 2
+Average -0.8895843851983796
+
+we have
+128
+cores
+Generation 3 of 200:  fitness: -2.2827690277546964 age: 3
+Average -0.9027092796483241
+
+we have
+128
+cores
+Generation 4 of 200:  fitness: -2.6424659449753976 age: 4
+Average -1.0841935203172262
+
+we have
+128
+cores
+Generation 5 of 200:  fitness: -2.6424659449753976 age: 5
+Average -1.0979749123644935
+
+we have
+128
+cores
+Generation 6 of 200:  fitness: -2.6424659449753976 age: 6
+Average -1.0564105077224226
+
+we have
+128
+cores
+Generation 7 of 200:  fitness: -2.6424659449753976 age: 7
+Average -1.0696331537749373
+
+we have
+128
+cores
+Generation 8 of 200:  fitness: -2.6424659449753976 age: 8
+Average -1.0804012553204592
+
+we have
+128
+cores
+Generation 9 of 200:  fitness: -2.6424659449753976 age: 9
+Average -1.0318078263670554
+
+we have
+128
+cores
+Generation 10 of 200:  fitness: -3.2085514819678704 age: 10
+Average -1.0813773884261784
+
+we have
+128
+cores
+Generation 11 of 200:  fitness: -3.2085514819678704 age: 11
+Average -1.214296947579335
+
+we have
+128
+cores
+Generation 12 of 200:  fitness: -3.693978954356836 age: 6
+Average -1.3301195475520284
+
+we have
+128
+cores
+Generation 13 of 200:  fitness: -3.693978954356836 age: 7
+Average -1.2171521118355049
+
+we have
+128
+cores
+Generation 14 of 200:  fitness: -3.693978954356836 age: 8
+Average -1.3284320829618652
+
+we have
+128
+cores
+Generation 15 of 200:  fitness: -3.693978954356836 age: 9
+Average -1.3154613451200123
+
+we have
+128
+cores
+Generation 16 of 200:  fitness: -3.693978954356836 age: 10
+Average -1.4414107010360522
+
+we have
+128
+cores
+Generation 17 of 200:  fitness: -3.693978954356836 age: 11
+Average -1.4022014463302055
+
+we have
+128
+cores
+Generation 18 of 200:  fitness: -3.693978954356836 age: 12
+Average -1.4354346216037377
+
+we have
+128
+cores
+Generation 19 of 200:  fitness: -3.693978954356836 age: 13
+Average -1.3693417294814936
+
+we have
+128
+cores
+Generation 20 of 200:  fitness: -3.693978954356836 age: 14
+Average -1.1730254524988257
+
+we have
+128
+cores
+Generation 21 of 200:  fitness: -3.693978954356836 age: 15
+Average -1.2937135683737468
+
+we have
+128
+cores
+Generation 22 of 200:  fitness: -4.821266307423952 age: 14
+Average -1.4537369827971645
+
+we have
+128
+cores
+Generation 23 of 200:  fitness: -4.821266307423952 age: 15
+Average -1.5364629398152017
+
+we have
+128
+cores
+Generation 24 of 200:  fitness: -4.821266307423952 age: 16
+Average -1.410437256046805
+
+we have
+128
+cores
+Generation 25 of 200:  fitness: -4.821266307423952 age: 17
+Average -1.4224217913508348
+
+we have
+128
+cores
+Generation 26 of 200:  fitness: -4.821266307423952 age: 18
+Average -1.620808411707784
+
+we have
+128
+cores
+Generation 27 of 200:  fitness: -4.821266307423952 age: 19
+Average -1.4982446280064472
+
+we have
+128
+cores
+Generation 28 of 200:  fitness: -4.821266307423952 age: 20
+Average -1.3171731164595633
+
+we have
+128
+cores
+Generation 29 of 200:  fitness: -4.821266307423952 age: 21
+Average -1.209633140740303
+
+we have
+128
+cores
+Generation 30 of 200:  fitness: -4.821266307423952 age: 22
+Average -1.4357387512393185
+
+we have
+128
+cores
+Generation 31 of 200:  fitness: -4.821266307423952 age: 23
+Average -1.4276194648779872
+
+we have
+128
+cores
+Generation 32 of 200:  fitness: -4.821266307423952 age: 24
+Average -1.5032409481191271
+
+we have
+128
+cores
+Generation 33 of 200:  fitness: -4.821266307423952 age: 25
+Average -1.485295022276017
+
+we have
+128
+cores
+Generation 34 of 200:  fitness: -4.821266307423952 age: 26
+Average -1.563430160913451
+
+we have
+128
+cores
+Generation 35 of 200:  fitness: -4.821266307423952 age: 27
+Average -1.5194738870438196
+
+we have
+128
+cores
+Generation 36 of 200:  fitness: -4.821266307423952 age: 28
+Average -1.4636445898026178
+
+we have
+128
+cores
+Generation 37 of 200:  fitness: -4.821266307423952 age: 29
+Average -1.5258539425742725
+
+we have
+128
+cores
+Generation 38 of 200:  fitness: -4.821266307423952 age: 30
+Average -1.6503142843734424
+
+we have
+128
+cores
+Generation 39 of 200:  fitness: -4.821266307423952 age: 31
+Average -1.575790989488904
+
+we have
+128
+cores
+Generation 40 of 200:  fitness: -4.824417879978284 age: 32
+Average -1.7655913535877
+
+we have
+128
+cores
+Generation 41 of 200:  fitness: -4.824417879978284 age: 33
+Average -1.7710794053129455
+
+we have
+128
+cores
+Generation 42 of 200:  fitness: -4.824417879978284 age: 34
+Average -1.496939388690515
+
+we have
+128
+cores
+Generation 43 of 200:  fitness: -4.824417879978284 age: 35
+Average -1.576105619998382
+
+we have
+128
+cores
+Generation 44 of 200:  fitness: -4.824417879978284 age: 36
+Average -1.5246001207617241
+
+we have
+128
+cores
+Generation 45 of 200:  fitness: -4.824417879978284 age: 37
+Average -1.2478835332057243
+
+we have
+128
+cores
+Generation 46 of 200:  fitness: -4.824417879978284 age: 38
+Average -1.2849953929124807
+
+we have
+128
+cores
+Generation 47 of 200:  fitness: -4.824417879978284 age: 39
+Average -1.4262469613111892
+
+we have
+128
+cores
+Generation 48 of 200:  fitness: -4.824417879978284 age: 40
+Average -1.4465318039254413
+
+we have
+128
+cores
+Generation 49 of 200:  fitness: -4.824417879978284 age: 41
+Average -1.4677578437102823
+
+we have
+128
+cores
+Generation 50 of 200:  fitness: -4.824417879978284 age: 42
+Average -1.4301206404917486
+
+we have
+128
+cores
+Generation 51 of 200:  fitness: -4.824417879978284 age: 43
+Average -1.3810446230879614
+
+we have
+128
+cores
+Generation 52 of 200:  fitness: -4.824417879978284 age: 44
+Average -1.4101854375292175
+
+we have
+128
+cores
+Generation 53 of 200:  fitness: -4.824417879978284 age: 45
+Average -1.410525965772739
+
+we have
+128
+cores
+Generation 54 of 200:  fitness: -4.824417879978284 age: 46
+Average -1.4397323479903466
+
+we have
+128
+cores
+Generation 55 of 200:  fitness: -4.824417879978284 age: 47
+Average -1.3993526787470054
+
+we have
+128
+cores
+Generation 56 of 200:  fitness: -4.824417879978284 age: 48
+Average -1.456226927252539
+
+we have
+128
+cores
+Generation 57 of 200:  fitness: -4.824417879978284 age: 49
+Average -1.4724695229143023
+
+we have
+128
+cores
+Generation 58 of 200:  fitness: -4.824417879978284 age: 50
+Average -1.5848830684989554
+
+we have
+128
+cores
+Generation 59 of 200:  fitness: -4.824417879978284 age: 51
+Average -1.8009112242939054
+
+we have
+128
+cores
+Generation 60 of 200:  fitness: -4.824417879978284 age: 52
+Average -1.9234148990509317
+
+we have
+128
+cores
+Generation 61 of 200:  fitness: -4.824417879978284 age: 53
+Average -1.825564461488747
+
+we have
+128
+cores
+Generation 62 of 200:  fitness: -4.824417879978284 age: 54
+Average -1.7507620879196828
+
+we have
+128
+cores
+Generation 63 of 200:  fitness: -4.824417879978284 age: 55
+Average -1.6851989172458801
+
+we have
+128
+cores
+Generation 64 of 200:  fitness: -4.824417879978284 age: 56
+Average -1.7094259555022138
+
+we have
+128
+cores
+Generation 65 of 200:  fitness: -4.824417879978284 age: 57
+Average -1.7406505563633417
+
+we have
+128
+cores
+Generation 66 of 200:  fitness: -4.824417879978284 age: 58
+Average -1.6762061442045442
+
+we have
+128
+cores
+Generation 67 of 200:  fitness: -4.824417879978284 age: 59
+Average -1.9627777420519974
+
+we have
+128
+cores
+Generation 68 of 200:  fitness: -4.824417879978284 age: 60
+Average -1.8633982144475754
+
+we have
+128
+cores
+Generation 69 of 200:  fitness: -4.824417879978284 age: 61
+Average -1.8852659237463607
+
+we have
+128
+cores
+Generation 70 of 200:  fitness: -4.824417879978284 age: 62
+Average -1.6299247348727
+
+we have
+128
+cores
+Generation 71 of 200:  fitness: -4.900648185175786 age: 63
+Average -1.534854870107595
+
+we have
+128
+cores
+Generation 72 of 200:  fitness: -4.900648185175786 age: 64
+Average -1.5437911960313047
+
+we have
+128
+cores
+Generation 73 of 200:  fitness: -4.900648185175786 age: 65
+Average -1.55971511633549
+
+we have
+128
+cores
+Generation 74 of 200:  fitness: -4.900648185175786 age: 66
+Average -1.4855789425051102
+
+we have
+128
+cores
+Generation 75 of 200:  fitness: -4.900648185175786 age: 67
+Average -1.380749634844848
+
+we have
+128
+cores
+Generation 76 of 200:  fitness: -4.900648185175786 age: 68
+Average -1.5340536936676585
+
+we have
+128
+cores
+Generation 77 of 200:  fitness: -4.900648185175786 age: 69
+Average -1.6131104110446746
+
+we have
+128
+cores
+Generation 78 of 200:  fitness: -4.900648185175786 age: 70
+Average -1.5544826334298016
+
+we have
+128
+cores
+Generation 79 of 200:  fitness: -4.900648185175786 age: 71
+Average -1.4831551227978017
+
+we have
+128
+cores
+Generation 80 of 200:  fitness: -4.900648185175786 age: 72
+Average -1.4484174984623377
+
+we have
+128
+cores
+Generation 81 of 200:  fitness: -4.900648185175786 age: 73
+Average -1.5411359891810366
+
+we have
+128
+cores
+Generation 82 of 200:  fitness: -4.900648185175786 age: 74
+Average -1.5546553770438964
+
+we have
+128
+cores
+Generation 83 of 200:  fitness: -4.900648185175786 age: 75
+Average -1.5010338450207856
+
+we have
+128
+cores
+Generation 84 of 200:  fitness: -4.900648185175786 age: 76
+Average -1.5506142768951403
+
+we have
+128
+cores
+Generation 85 of 200:  fitness: -4.900648185175786 age: 77
+Average -1.5507577216672415
+
+we have
+128
+cores
+Generation 86 of 200:  fitness: -4.900648185175786 age: 78
+Average -1.5795898376498303
+
+we have
+128
+cores
+Generation 87 of 200:  fitness: -4.900648185175786 age: 79
+Average -1.7999708738100688
+
+we have
+128
+cores
+Generation 88 of 200:  fitness: -4.900648185175786 age: 80
+Average -1.4656131261017216
+
+we have
+128
+cores
+Generation 89 of 200:  fitness: -4.900648185175786 age: 81
+Average -1.6929752091248955
+
+we have
+128
+cores
+Generation 90 of 200:  fitness: -4.900648185175786 age: 82
+Average -1.6396489708014743
+
+we have
+128
+cores
+Generation 91 of 200:  fitness: -4.900648185175786 age: 83
+Average -1.5405035558618008
+
+we have
+128
+cores
+Generation 92 of 200:  fitness: -4.900648185175786 age: 84
+Average -1.5796418245943773
+
+we have
+128
+cores
+Generation 93 of 200:  fitness: -4.900648185175786 age: 85
+Average -1.5774429402726085
+
+we have
+128
+cores
+Generation 94 of 200:  fitness: -4.900648185175786 age: 86
+Average -1.5722370488883224
+
+we have
+128
+cores
+Generation 95 of 200:  fitness: -4.900648185175786 age: 87
+Average -1.6206567466476824
+
+we have
+128
+cores
+Generation 96 of 200:  fitness: -4.900648185175786 age: 88
+Average -1.6010431981420152
+
+we have
+128
+cores
+Generation 97 of 200:  fitness: -4.900648185175786 age: 89
+Average -1.5655488229011083
+
+we have
+128
+cores
+Generation 98 of 200:  fitness: -4.900648185175786 age: 90
+Average -1.5750195489923957
+
+we have
+128
+cores
+Generation 99 of 200:  fitness: -4.900648185175786 age: 91
+Average -1.6177648659067057
+
+we have
+128
+cores
+Generation 100 of 200:  fitness: -4.900648185175786 age: 92
+Average -1.5015516089673893
+
+we have
+128
+cores
+Generation 101 of 200:  fitness: -4.900648185175786 age: 93
+Average -1.72876347352906
+
+we have
+128
+cores
+Generation 102 of 200:  fitness: -4.900648185175786 age: 94
+Average -1.6769772921278736
+
+we have
+128
+cores
+Generation 103 of 200:  fitness: -4.900648185175786 age: 95
+Average -1.6504668001108636
+
+we have
+128
+cores
+Generation 104 of 200:  fitness: -6.530382758030545 age: 39
+Average -1.6086689024996916
+
+we have
+128
+cores
+Generation 105 of 200:  fitness: -6.530382758030545 age: 40
+Average -1.762262368329716
+
+we have
+128
+cores
+Generation 106 of 200:  fitness: -6.530382758030545 age: 41
+Average -1.721733692271273
+
+we have
+128
+cores
+Generation 107 of 200:  fitness: -6.530382758030545 age: 42
+Average -1.6474740279454132
+
+we have
+128
+cores
+Generation 108 of 200:  fitness: -6.530382758030545 age: 43
+Average -1.4530081574902218
+
+we have
+128
+cores
+Generation 109 of 200:  fitness: -6.530382758030545 age: 44
+Average -1.4920614713324079
+
+we have
+128
+cores
+Generation 110 of 200:  fitness: -6.530382758030545 age: 45
+Average -1.6525786642291111
+
+we have
+128
+cores
+Generation 111 of 200:  fitness: -7.402119608255774 age: 46
+Average -1.8795800930670052
+
+we have
+128
+cores
+Generation 112 of 200:  fitness: -7.402119608255774 age: 47
+Average -1.9882901769992012
+
+we have
+128
+cores
+Generation 113 of 200:  fitness: -7.402119608255774 age: 48
+Average -1.863399835848066
+
+we have
+128
+cores
+Generation 114 of 200:  fitness: -7.402119608255774 age: 49
+Average -2.099864653580823
+
+we have
+128
+cores
+Generation 115 of 200:  fitness: -7.402119608255774 age: 50
+Average -2.031450748495173
+
+we have
+128
+cores
+Generation 116 of 200:  fitness: -7.402119608255774 age: 51
+Average -2.111925259621217
+
+we have
+128
+cores
+Generation 117 of 200:  fitness: -7.402119608255774 age: 52
+Average -2.1061949525571446
+
+we have
+128
+cores
+Generation 118 of 200:  fitness: -7.542779617713778 age: 53
+Average -1.7431493482918556
+
+we have
+128
+cores
+Generation 119 of 200:  fitness: -7.542779617713778 age: 54
+Average -1.7967360879145944
+
+we have
+128
+cores
+Generation 120 of 200:  fitness: -7.542779617713778 age: 55
+Average -1.521489680888541
+
+we have
+128
+cores
+Generation 121 of 200:  fitness: -7.542779617713778 age: 56
+Average -1.5919559931311198
+
+we have
+128
+cores
+Generation 122 of 200:  fitness: -7.542779617713778 age: 57
+Average -1.4909434123143481
+
+we have
+128
+cores
+Generation 123 of 200:  fitness: -7.542779617713778 age: 58
+Average -1.4516550239154804
+
+we have
+128
+cores
+Generation 124 of 200:  fitness: -7.542779617713778 age: 59
+Average -1.455142668671046
+
+we have
+128
+cores
+Generation 125 of 200:  fitness: -7.542779617713778 age: 60
+Average -1.491082002762662
+
+we have
+128
+cores
+Generation 126 of 200:  fitness: -7.542779617713778 age: 61
+Average -1.6390730262209272
+
+we have
+128
+cores
+Generation 127 of 200:  fitness: -7.542779617713778 age: 62
+Average -1.4413210776718999
+
+we have
+128
+cores
+Generation 128 of 200:  fitness: -7.542779617713778 age: 63
+Average -1.3609368184361808
+
+we have
+128
+cores
+Generation 129 of 200:  fitness: -7.542779617713778 age: 64
+Average -1.4382411430206792
+
+we have
+128
+cores
+Generation 130 of 200:  fitness: -7.542779617713778 age: 65
+Average -1.6121359081402082
+
+we have
+128
+cores
+Generation 131 of 200:  fitness: -7.542779617713778 age: 66
+Average -1.705417976010527
+
+we have
+128
+cores
+Generation 132 of 200:  fitness: -7.542779617713778 age: 67
+Average -1.7307083337066524
+
+we have
+128
+cores
+Generation 133 of 200:  fitness: -7.542779617713778 age: 68
+Average -1.6213832987393633
+
+we have
+128
+cores
+Generation 134 of 200:  fitness: -7.542779617713778 age: 69
+Average -1.666043727289742
+
+we have
+128
+cores
+Generation 135 of 200:  fitness: -7.542779617713778 age: 70
+Average -1.6641281195425055
+
+we have
+128
+cores
+Generation 136 of 200:  fitness: -7.542779617713778 age: 71
+Average -1.8766907309254057
+
+we have
+128
+cores
+Generation 137 of 200:  fitness: -7.542779617713778 age: 72
+Average -1.98953675277322
+
+we have
+128
+cores
+Generation 138 of 200:  fitness: -7.542779617713778 age: 73
+Average -1.9140933303515681
+
+we have
+128
+cores
+Generation 139 of 200:  fitness: -7.542779617713778 age: 74
+Average -2.05231052876619
+
+we have
+128
+cores
+Generation 140 of 200:  fitness: -7.542779617713778 age: 75
+Average -1.8359823245545521
+
+we have
+128
+cores
+Generation 141 of 200:  fitness: -7.542779617713778 age: 76
+Average -1.8890136386842875
+
+we have
+128
+cores
+Generation 142 of 200:  fitness: -7.542779617713778 age: 77
+Average -2.088361563617084
+
+we have
+128
+cores
+Generation 143 of 200:  fitness: -7.542779617713778 age: 78
+Average -1.731283646538902
+
+we have
+128
+cores
+Generation 144 of 200:  fitness: -7.542779617713778 age: 79
+Average -1.7447891829261086
+
+we have
+128
+cores
+Generation 145 of 200:  fitness: -7.542779617713778 age: 80
+Average -2.1090197774962736
+
+we have
+128
+cores
+Generation 146 of 200:  fitness: -7.542779617713778 age: 81
+Average -1.9782858942151622
+
+we have
+128
+cores
+Generation 147 of 200:  fitness: -7.542779617713778 age: 82
+Average -1.972878379929287
+
+we have
+128
+cores
+Generation 148 of 200:  fitness: -7.542779617713778 age: 83
+Average -2.179450144364357
+
+we have
+128
+cores
+Generation 149 of 200:  fitness: -7.542779617713778 age: 84
+Average -2.0756932968721924
+
+we have
+128
+cores
+Generation 150 of 200:  fitness: -7.542779617713778 age: 85
+Average -1.964141286510461
+
+we have
+128
+cores
+Generation 151 of 200:  fitness: -7.542779617713778 age: 86
+Average -1.8584684316699418
+
+we have
+128
+cores
+Generation 152 of 200:  fitness: -7.542779617713778 age: 87
+Average -1.7550064651842734
+
+we have
+128
+cores
+Generation 153 of 200:  fitness: -7.542779617713778 age: 88
+Average -1.9200889740951121
+
+we have
+128
+cores
+Generation 154 of 200:  fitness: -7.542779617713778 age: 89
+Average -1.9073507485785113
+
+we have
+128
+cores
+Generation 155 of 200:  fitness: -7.542779617713778 age: 90
+Average -1.7616145686496676
+
+we have
+128
+cores
+Generation 156 of 200:  fitness: -7.542779617713778 age: 91
+Average -1.8114104440597176
+
+we have
+128
+cores
+Generation 157 of 200:  fitness: -7.542779617713778 age: 92
+Average -1.9283131350420926
+
+we have
+128
+cores
+Generation 158 of 200:  fitness: -7.542779617713778 age: 93
+Average -1.7026258034126147
+
+we have
+128
+cores
+Generation 159 of 200:  fitness: -7.542779617713778 age: 94
+Average -1.6902478044033635
+
+we have
+128
+cores
+Generation 160 of 200:  fitness: -7.542779617713778 age: 95
+Average -1.8347594656949027
+
+we have
+128
+cores
+Generation 161 of 200:  fitness: -7.542779617713778 age: 96
+Average -2.169119011209153
+
+we have
+128
+cores
+Generation 162 of 200:  fitness: -7.542779617713778 age: 97
+Average -2.1725223525588446
+
+we have
+128
+cores
+Generation 163 of 200:  fitness: -7.542779617713778 age: 98
+Average -2.128086718400048
+
+we have
+128
+cores
+Generation 164 of 200:  fitness: -7.542779617713778 age: 99
+Average -2.0758550824415987
+
+we have
+128
+cores
+Generation 165 of 200:  fitness: -7.666413138789777 age: 100
+Average -2.294622102044405
+
+we have
+128
+cores
+Generation 166 of 200:  fitness: -7.666413138789777 age: 101
+Average -2.2864229656092236
+
+we have
+128
+cores
+Generation 167 of 200:  fitness: -7.666413138789777 age: 102
+Average -2.587417284377599
+
+we have
+128
+cores
+Generation 168 of 200:  fitness: -7.666413138789777 age: 103
+Average -2.541654778678924
+
+we have
+128
+cores
+Generation 169 of 200:  fitness: -7.666413138789777 age: 104
+Average -2.2329911056639067
+
+we have
+128
+cores
+Generation 170 of 200:  fitness: -7.666413138789777 age: 105
+Average -2.227901269736535
+
+we have
+128
+cores
+Generation 171 of 200:  fitness: -7.666413138789777 age: 106
+Average -2.296116514931327
+
+we have
+128
+cores
+Generation 172 of 200:  fitness: -7.666413138789777 age: 107
+Average -2.1560947514797855
+
+we have
+128
+cores
+Generation 173 of 200:  fitness: -7.666413138789777 age: 108
+Average -2.166334767216575
+
+we have
+128
+cores
+Generation 174 of 200:  fitness: -7.666413138789777 age: 109
+Average -2.335152768538366
+
+we have
+128
+cores
+Generation 175 of 200:  fitness: -7.666413138789777 age: 110
+Average -2.1831116533534707
+
+we have
+128
+cores
+Generation 176 of 200:  fitness: -7.666413138789777 age: 111
+Average -2.0594083914774783
+
+we have
+128
+cores
+Generation 177 of 200:  fitness: -7.666413138789777 age: 112
+Average -2.422377481102759
+
+we have
+128
+cores
+Generation 178 of 200:  fitness: -7.666413138789777 age: 113
+Average -2.0749418692833466
+
+we have
+128
+cores
+Generation 179 of 200:  fitness: -7.666413138789777 age: 114
+Average -2.0630707853995123
+
+we have
+128
+cores
+Generation 180 of 200:  fitness: -7.666413138789777 age: 115
+Average -1.990800097746467
+
+we have
+128
+cores
+Generation 181 of 200:  fitness: -7.666413138789777 age: 116
+Average -2.345578348131305
+
+we have
+128
+cores
+Generation 182 of 200:  fitness: -7.666413138789777 age: 117
+Average -2.134281965492406
+
+we have
+128
+cores
+Generation 183 of 200:  fitness: -7.666413138789777 age: 118
+Average -2.4624721123030486
+
+we have
+128
+cores
+Generation 184 of 200:  fitness: -7.666413138789777 age: 119
+Average -2.620572925634678
+
+we have
+128
+cores
+Generation 185 of 200:  fitness: -7.666413138789777 age: 120
+Average -2.249908274243996
+
+we have
+128
+cores
+Generation 186 of 200:  fitness: -7.666413138789777 age: 121
+Average -2.4024693312086103
+
+we have
+128
+cores
+Generation 187 of 200:  fitness: -7.666413138789777 age: 122
+Average -2.5753609283665653
+
+we have
+128
+cores
+Generation 188 of 200:  fitness: -7.666413138789777 age: 123
+Average -2.7031803776329664
+
+we have
+128
+cores
+Generation 189 of 200:  fitness: -7.666413138789777 age: 124
+Average -2.791594354382726
+
+we have
+128
+cores
+Generation 190 of 200:  fitness: -7.666413138789777 age: 125
+Average -2.823183878661126
+
+we have
+128
+cores
+Generation 191 of 200:  fitness: -7.666413138789777 age: 126
+Average -2.969628304815723
+
+we have
+128
+cores
+Generation 192 of 200:  fitness: -7.666413138789777 age: 127
+Average -2.5613560737263805
+
+we have
+128
+cores
+Generation 193 of 200:  fitness: -7.666413138789777 age: 128
+Average -2.9528441335320683
+
+we have
+128
+cores
+Generation 194 of 200:  fitness: -7.666413138789777 age: 129
+Average -2.4065177491987004
+
+we have
+128
+cores
+Generation 195 of 200:  fitness: -7.666413138789777 age: 130
+Average -2.352289542815598
+
+we have
+128
+cores
+Generation 196 of 200:  fitness: -7.666413138789777 age: 131
+Average -2.6801225943916904
+
+we have
+128
+cores
+Generation 197 of 200:  fitness: -7.666413138789777 age: 132
+Average -2.235502967663761
+
+we have
+128
+cores
+Generation 198 of 200:  fitness: -7.666413138789777 age: 133
+Average -2.316410886952661
+
+we have
+128
+cores
+Generation 199 of 200:  fitness: -7.666413138789777 age: 134
+Average -2.7413938382325536
+
+*********************************************************
+run: 2
+we have
+128
+cores
+Generation 0 of 200:  fitness: -1.4321330318801988 age: 0
+Average -0.7172874739673876
+
+we have
+128
+cores
+Generation 1 of 200:  fitness: -1.6498582569260853 age: 1
+Average -0.8515543162591124
+
+we have
+128
+cores
+Generation 2 of 200:  fitness: -1.9945107612688822 age: 2
+Average -0.888598637458179
+
+we have
+128
+cores
+Generation 3 of 200:  fitness: -1.9945107612688822 age: 3
+Average -0.910953322464605
+
+we have
+128
+cores
+Generation 4 of 200:  fitness: -1.9945107612688822 age: 4
+Average -0.9517833333189678
+
+we have
+128
+cores
+Generation 5 of 200:  fitness: -1.9945107612688822 age: 5
+Average -0.8941948738903952
+
+we have
+128
+cores
+Generation 6 of 200:  fitness: -1.9945107612688822 age: 6
+Average -0.8202104969543454
+
+we have
+128
+cores
+Generation 7 of 200:  fitness: -1.9945107612688822 age: 7
+Average -0.870361577615445
+
+we have
+128
+cores
+Generation 8 of 200:  fitness: -2.4182189820265356 age: 8
+Average -0.896958860757545
+
+we have
+128
+cores
+Generation 9 of 200:  fitness: -2.4182189820265356 age: 9
+Average -0.8743487044424019
+
+we have
+128
+cores
+Generation 10 of 200:  fitness: -2.4265271363002965 age: 10
+Average -0.976208576846298
+
+we have
+128
+cores
+Generation 11 of 200:  fitness: -2.4265271363002965 age: 11
+Average -0.9182463982448232
+
+we have
+128
+cores
+Generation 12 of 200:  fitness: -2.4265271363002965 age: 12
+Average -0.9825303369142914
+
+we have
+128
+cores
+Generation 13 of 200:  fitness: -2.4265271363002965 age: 13
+Average -0.9843340803526786
+
+we have
+128
+cores
+Generation 14 of 200:  fitness: -2.4265271363002965 age: 14
+Average -1.0488562684408813
+
+we have
+128
+cores
+Generation 15 of 200:  fitness: -3.071640140775034 age: 15
+Average -1.1233746725246159
+
+we have
+128
+cores
+Generation 16 of 200:  fitness: -3.071640140775034 age: 16
+Average -1.0979998509718407
+
+we have
+128
+cores
+Generation 17 of 200:  fitness: -3.1702480210265596 age: 17
+Average -1.229677072618645
+
+we have
+128
+cores
+Generation 18 of 200:  fitness: -3.3410500862742576 age: 18
+Average -1.2018457036506323
+
+we have
+128
+cores
+Generation 19 of 200:  fitness: -3.3410500862742576 age: 19
+Average -1.120122143274449
+
+we have
+128
+cores
+Generation 20 of 200:  fitness: -3.3596508455577943 age: 20
+Average -1.12194773052081
+
+we have
+128
+cores
+Generation 21 of 200:  fitness: -3.3596508455577943 age: 21
+Average -1.2489792975440825
+
+we have
+128
+cores
+Generation 22 of 200:  fitness: -3.3596508455577943 age: 22
+Average -1.4314567646209415
+
+we have
+128
+cores
+Generation 23 of 200:  fitness: -4.379222802231446 age: 15
+Average -1.3912014813079734
+
+we have
+128
+cores
+Generation 24 of 200:  fitness: -4.379222802231446 age: 16
+Average -1.266985444910903
+
+we have
+128
+cores
+Generation 25 of 200:  fitness: -4.379222802231446 age: 17
+Average -1.2777918186691906
+
+we have
+128
+cores
+Generation 26 of 200:  fitness: -4.379222802231446 age: 18
+Average -1.3587957382335318
+
+we have
+128
+cores
+Generation 27 of 200:  fitness: -4.379222802231446 age: 19
+Average -1.2732706363982655
+
+we have
+128
+cores
+Generation 28 of 200:  fitness: -4.379222802231446 age: 20
+Average -1.2672236297790551
+
+we have
+128
+cores
+Generation 29 of 200:  fitness: -4.379222802231446 age: 21
+Average -1.164678939311753
+
+we have
+128
+cores
+Generation 30 of 200:  fitness: -4.379222802231446 age: 22
+Average -1.364865296263051
+
+we have
+128
+cores
+Generation 31 of 200:  fitness: -4.379222802231446 age: 23
+Average -1.5235327498103366
+
+we have
+128
+cores
+Generation 32 of 200:  fitness: -4.379222802231446 age: 24
+Average -1.5883765893840007
+
+we have
+128
+cores
+Generation 33 of 200:  fitness: -4.379222802231446 age: 25
+Average -1.605557016910896
+
+we have
+128
+cores
+Generation 34 of 200:  fitness: -4.379222802231446 age: 26
+Average -1.6169598676078059
+
+we have
+128
+cores
+Generation 35 of 200:  fitness: -4.379222802231446 age: 27
+Average -1.6484300003809815
+
+we have
+128
+cores
+Generation 36 of 200:  fitness: -4.379222802231446 age: 28
+Average -1.6769396371112313
+
+we have
+128
+cores
+Generation 37 of 200:  fitness: -4.379222802231446 age: 29
+Average -1.706851494518962
+
+we have
+128
+cores
+Generation 38 of 200:  fitness: -4.379222802231446 age: 30
+Average -1.702634898154162
+
+we have
+128
+cores
+Generation 39 of 200:  fitness: -4.379222802231446 age: 31
+Average -1.7226790521020192
+
+we have
+128
+cores
+Generation 40 of 200:  fitness: -4.379222802231446 age: 32
+Average -1.4606568232302044
+
+we have
+128
+cores
+Generation 41 of 200:  fitness: -4.379222802231446 age: 33
+Average -1.7017986589524088
+
+we have
+128
+cores
+Generation 42 of 200:  fitness: -4.379222802231446 age: 34
+Average -1.8579853365500572
+
+we have
+128
+cores
+Generation 43 of 200:  fitness: -4.379222802231446 age: 35
+Average -1.730253811714158
+
+we have
+128
+cores
+Generation 44 of 200:  fitness: -4.379222802231446 age: 36
+Average -1.7081198047780868
+
+we have
+128
+cores
+Generation 45 of 200:  fitness: -5.300396554892565 age: 19
+Average -1.7826012804361782
+
+we have
+128
+cores
+Generation 46 of 200:  fitness: -5.300396554892565 age: 20
+Average -1.8362464297596857
+
+we have
+128
+cores
+Generation 47 of 200:  fitness: -5.300396554892565 age: 21
+Average -1.700384910866066
+
+we have
+128
+cores
+Generation 48 of 200:  fitness: -5.300396554892565 age: 22
+Average -1.906423623463528
+
+we have
+128
+cores
+Generation 49 of 200:  fitness: -5.300396554892565 age: 23
+Average -1.9989953540514684
+
+we have
+128
+cores
+Generation 50 of 200:  fitness: -5.300396554892565 age: 24
+Average -1.697452680253444
+
+we have
+128
+cores
+Generation 51 of 200:  fitness: -5.300396554892565 age: 25
+Average -1.7715383008110104
+
+we have
+128
+cores
+Generation 52 of 200:  fitness: -5.300396554892565 age: 26
+Average -1.6560156834203525
+
+we have
+128
+cores
+Generation 53 of 200:  fitness: -5.300396554892565 age: 27
+Average -1.500388299093062
+
+we have
+128
+cores
+Generation 54 of 200:  fitness: -5.300396554892565 age: 28
+Average -1.5736566054867844
+
+we have
+128
+cores
+Generation 55 of 200:  fitness: -5.300396554892565 age: 29
+Average -1.6348086922754006
+
+we have
+128
+cores
+Generation 56 of 200:  fitness: -5.300396554892565 age: 30
+Average -1.579300233829977
+
+we have
+128
+cores
+Generation 57 of 200:  fitness: -5.300396554892565 age: 31
+Average -1.6711381014625801
+
+we have
+128
+cores
+Generation 58 of 200:  fitness: -5.300396554892565 age: 32
+Average -1.6701128659918205
+
+we have
+128
+cores
+Generation 59 of 200:  fitness: -5.300396554892565 age: 33
+Average -1.6811325091540597
+
+we have
+128
+cores
+Generation 60 of 200:  fitness: -5.619671949711111 age: 23
+Average -1.6175267223035268
+
+we have
+128
+cores
+Generation 61 of 200:  fitness: -5.619671949711111 age: 24
+Average -1.3855257291143104
+
+we have
+128
+cores
+Generation 62 of 200:  fitness: -5.619671949711111 age: 25
+Average -1.4296290827668454
+
+we have
+128
+cores
+Generation 63 of 200:  fitness: -5.619671949711111 age: 26
+Average -1.5959838158762643
+
+we have
+128
+cores
+Generation 64 of 200:  fitness: -5.619671949711111 age: 27
+Average -1.4626532248054942
+
+we have
+128
+cores
+Generation 65 of 200:  fitness: -5.619671949711111 age: 28
+Average -1.5798233648577067
+
+we have
+128
+cores
+Generation 66 of 200:  fitness: -5.619671949711111 age: 29
+Average -1.619834876292704
+
+we have
+128
+cores
+Generation 67 of 200:  fitness: -5.619671949711111 age: 30
+Average -1.6859227912170243
+
+we have
+128
+cores
+Generation 68 of 200:  fitness: -5.619671949711111 age: 31
+Average -1.6386239090098706
+
+we have
+128
+cores
+Generation 69 of 200:  fitness: -5.619671949711111 age: 32
+Average -1.652221753092262
+
+we have
+128
+cores
+Generation 70 of 200:  fitness: -5.619671949711111 age: 33
+Average -1.7331946031463488
+
+we have
+128
+cores
+Generation 71 of 200:  fitness: -5.619671949711111 age: 34
+Average -1.6132707619515492
+
+we have
+128
+cores
+Generation 72 of 200:  fitness: -5.619671949711111 age: 35
+Average -1.6159065347720047
+
+we have
+128
+cores
+Generation 73 of 200:  fitness: -5.619671949711111 age: 36
+Average -1.663885464693075
+
+we have
+128
+cores
+Generation 74 of 200:  fitness: -5.619671949711111 age: 37
+Average -1.4062095229430716
+
+we have
+128
+cores
+Generation 75 of 200:  fitness: -5.619671949711111 age: 38
+Average -1.4733052923927665
+
+we have
+128
+cores
+Generation 76 of 200:  fitness: -5.619671949711111 age: 39
+Average -1.4232730867091354
+
+we have
+128
+cores
+Generation 77 of 200:  fitness: -5.619671949711111 age: 40
+Average -1.6187137629041248
+
+we have
+128
+cores
+Generation 78 of 200:  fitness: -5.619671949711111 age: 41
+Average -1.5413190850119114
+
+we have
+128
+cores
+Generation 79 of 200:  fitness: -5.619671949711111 age: 42
+Average -1.368035978835956
+
+we have
+128
+cores
+Generation 80 of 200:  fitness: -5.619671949711111 age: 43
+Average -1.3116580229085724
+
+we have
+128
+cores
+Generation 81 of 200:  fitness: -5.619671949711111 age: 44
+Average -1.2716041837542142
+
+we have
+128
+cores
+Generation 82 of 200:  fitness: -5.619671949711111 age: 45
+Average -1.2733689711830132
+
+we have
+128
+cores
+Generation 83 of 200:  fitness: -5.619671949711111 age: 46
+Average -1.3439553217509665
+
+we have
+128
+cores
+Generation 84 of 200:  fitness: -5.619671949711111 age: 47
+Average -1.3952858395852794
+
+we have
+128
+cores
+Generation 85 of 200:  fitness: -5.619671949711111 age: 48
+Average -1.3039985051016063
+
+we have
+128
+cores
+Generation 86 of 200:  fitness: -5.619671949711111 age: 49
+Average -1.4629789955126866
+
+we have
+128
+cores
+Generation 87 of 200:  fitness: -5.619671949711111 age: 50
+Average -1.361527093361035
+
+we have
+128
+cores
+Generation 88 of 200:  fitness: -5.619671949711111 age: 51
+Average -1.5066015848126504
+
+we have
+128
+cores
+Generation 89 of 200:  fitness: -5.619671949711111 age: 52
+Average -1.429728378286602
+
+we have
+128
+cores
+Generation 90 of 200:  fitness: -5.619671949711111 age: 53
+Average -1.235547231906506
+
+we have
+128
+cores
+Generation 91 of 200:  fitness: -5.619671949711111 age: 54
+Average -1.3267815951917497
+
+we have
+128
+cores
+Generation 92 of 200:  fitness: -5.619671949711111 age: 55
+Average -1.3144001262665583
+
+we have
+128
+cores
+Generation 93 of 200:  fitness: -5.619671949711111 age: 56
+Average -1.2810830862160794
+
+we have
+128
+cores
+Generation 94 of 200:  fitness: -5.619671949711111 age: 57
+Average -1.3667630040676355
+
+we have
+128
+cores
+Generation 95 of 200:  fitness: -5.619671949711111 age: 58
+Average -1.5003035958400814
+
+we have
+128
+cores
+Generation 96 of 200:  fitness: -5.619671949711111 age: 59
+Average -1.693651838845764
+
+we have
+128
+cores
+Generation 97 of 200:  fitness: -5.619671949711111 age: 60
+Average -1.6179820395950697
+
+we have
+128
+cores
+Generation 98 of 200:  fitness: -5.619671949711111 age: 61
+Average -1.6237687294317085
+
+we have
+128
+cores
+Generation 99 of 200:  fitness: -5.619671949711111 age: 62
+Average -1.716286552052907
+
+we have
+128
+cores
+Generation 100 of 200:  fitness: -5.619671949711111 age: 63
+Average -1.7882381080576761
+
+we have
+128
+cores
+Generation 101 of 200:  fitness: -5.619671949711111 age: 64
+Average -1.7592046701734052
+
+we have
+128
+cores
+Generation 102 of 200:  fitness: -5.619671949711111 age: 65
+Average -2.1010149517383128
+
+we have
+128
+cores
+Generation 103 of 200:  fitness: -5.619671949711111 age: 66
+Average -1.9819668180580876
+
+we have
+128
+cores
+Generation 104 of 200:  fitness: -5.619671949711111 age: 67
+Average -1.719022107124296
+
+we have
+128
+cores
+Generation 105 of 200:  fitness: -5.619671949711111 age: 68
+Average -1.7873516859298084
+
+we have
+128
+cores
+Generation 106 of 200:  fitness: -5.619671949711111 age: 69
+Average -1.7852386232363255
+
+we have
+128
+cores
+Generation 107 of 200:  fitness: -5.619671949711111 age: 70
+Average -1.7762287556193923
+
+we have
+128
+cores
+Generation 108 of 200:  fitness: -5.619671949711111 age: 71
+Average -1.8853062485507892
+
+we have
+128
+cores
+Generation 109 of 200:  fitness: -5.619671949711111 age: 72
+Average -1.7593739416328151
+
+we have
+128
+cores
+Generation 110 of 200:  fitness: -5.619671949711111 age: 73
+Average -1.7026096971062628
+
+we have
+128
+cores
+Generation 111 of 200:  fitness: -5.619671949711111 age: 74
+Average -1.8685984288518862
+
+we have
+128
+cores
+Generation 112 of 200:  fitness: -5.619671949711111 age: 75
+Average -1.819849170740385
+
+we have
+128
+cores
+Generation 113 of 200:  fitness: -5.619671949711111 age: 76
+Average -2.036076603059315
+
+we have
+128
+cores
+Generation 114 of 200:  fitness: -5.619671949711111 age: 77
+Average -1.8025794356103628
+
+we have
+128
+cores
+Generation 115 of 200:  fitness: -5.619671949711111 age: 78
+Average -1.528786763211137
+
+we have
+128
+cores
+Generation 116 of 200:  fitness: -5.619671949711111 age: 79
+Average -1.5345841218665526
+
+we have
+128
+cores
+Generation 117 of 200:  fitness: -5.619671949711111 age: 80
+Average -1.5978230912672395
+
+we have
+128
+cores
+Generation 118 of 200:  fitness: -5.619671949711111 age: 81
+Average -1.608493904885468
+
+we have
+128
+cores
+Generation 119 of 200:  fitness: -5.619671949711111 age: 82
+Average -1.7030477976092442
+
+we have
+128
+cores
+Generation 120 of 200:  fitness: -5.619671949711111 age: 83
+Average -1.787630157843792
+
+we have
+128
+cores
+Generation 121 of 200:  fitness: -5.619671949711111 age: 84
+Average -1.6027630427496613
+
+we have
+128
+cores
+Generation 122 of 200:  fitness: -5.619671949711111 age: 85
+Average -1.4439089671680216
+
+we have
+128
+cores
+Generation 123 of 200:  fitness: -5.619671949711111 age: 86
+Average -1.5690389559335387
+
+we have
+128
+cores
+Generation 124 of 200:  fitness: -5.619671949711111 age: 87
+Average -1.5859639120991895
+
+we have
+128
+cores
+Generation 125 of 200:  fitness: -5.619671949711111 age: 88
+Average -1.8758173323616065
+
+we have
+128
+cores
+Generation 126 of 200:  fitness: -5.619671949711111 age: 89
+Average -1.7641960591567745
+
+we have
+128
+cores
+Generation 127 of 200:  fitness: -5.619671949711111 age: 90
+Average -1.7396988517180854
+
+we have
+128
+cores
+Generation 128 of 200:  fitness: -5.619671949711111 age: 91
+Average -1.8129586223506493
+
+we have
+128
+cores
+Generation 129 of 200:  fitness: -5.619671949711111 age: 92
+Average -1.603264022945719
+
+we have
+128
+cores
+Generation 130 of 200:  fitness: -5.619671949711111 age: 93
+Average -1.9398584980934757
+
+we have
+128
+cores
+Generation 131 of 200:  fitness: -5.619671949711111 age: 94
+Average -1.9942536358411502
+
+we have
+128
+cores
+Generation 132 of 200:  fitness: -5.619671949711111 age: 95
+Average -1.9956994755247655
+
+we have
+128
+cores
+Generation 133 of 200:  fitness: -5.619671949711111 age: 96
+Average -1.7617193582655892
+
+we have
+128
+cores
+Generation 134 of 200:  fitness: -5.619671949711111 age: 97
+Average -1.8801012637516343
+
+we have
+128
+cores
+Generation 135 of 200:  fitness: -5.619671949711111 age: 98
+Average -1.9294945123225593
+
+we have
+128
+cores
+Generation 136 of 200:  fitness: -5.619671949711111 age: 99
+Average -2.0409468029280706
+
+we have
+128
+cores
+Generation 137 of 200:  fitness: -5.619671949711111 age: 100
+Average -1.6793244902974116
+
+we have
+128
+cores
+Generation 138 of 200:  fitness: -5.619671949711111 age: 101
+Average -1.8800021388682393
+
+we have
+128
+cores
+Generation 139 of 200:  fitness: -5.619671949711111 age: 102
+Average -1.7487238853641358
+
+we have
+128
+cores
+Generation 140 of 200:  fitness: -5.619671949711111 age: 103
+Average -1.8374792334931362
+
+we have
+128
+cores
+Generation 141 of 200:  fitness: -5.619671949711111 age: 104
+Average -1.7677792682673923
+
+we have
+128
+cores
+Generation 142 of 200:  fitness: -5.619671949711111 age: 105
+Average -1.7518336906512704
+
+we have
+128
+cores
+Generation 143 of 200:  fitness: -5.619671949711111 age: 106
+Average -1.7898922232912975
+
+we have
+128
+cores
+Generation 144 of 200:  fitness: -5.619671949711111 age: 107
+Average -1.6944769950829632
+
+we have
+128
+cores
+Generation 145 of 200:  fitness: -5.619671949711111 age: 108
+Average -1.8186956330069355
+
+we have
+128
+cores
+Generation 146 of 200:  fitness: -5.619671949711111 age: 109
+Average -1.8238416904840582
+
+we have
+128
+cores
+Generation 147 of 200:  fitness: -5.619671949711111 age: 110
+Average -1.8101036730554716
+
+we have
+128
+cores
+Generation 148 of 200:  fitness: -5.619671949711111 age: 111
+Average -2.116253079011852
+
+we have
+128
+cores
+Generation 149 of 200:  fitness: -5.619671949711111 age: 112
+Average -1.9586649796623847
+
+we have
+128
+cores
+Generation 150 of 200:  fitness: -5.619671949711111 age: 113
+Average -2.0492432611175464
+
+we have
+128
+cores
+Generation 151 of 200:  fitness: -5.619671949711111 age: 114
+Average -2.0903019420397135
+
+we have
+128
+cores
+Generation 152 of 200:  fitness: -5.619671949711111 age: 115
+Average -2.098606883663344
+
+we have
+128
+cores
+Generation 153 of 200:  fitness: -8.210455680888343 age: 20
+Average -2.2725272056954395
+
+we have
+128
+cores
+Generation 154 of 200:  fitness: -8.210455680888343 age: 21
+Average -2.3096370739759955
+
+we have
+128
+cores
+Generation 155 of 200:  fitness: -8.210455680888343 age: 22
+Average -1.9755238356138154
+
+we have
+128
+cores
+Generation 156 of 200:  fitness: -8.210455680888343 age: 23
+Average -2.0577287057421367
+
+we have
+128
+cores
+Generation 157 of 200:  fitness: -8.210455680888343 age: 24
+Average -2.11095806522507
+
+we have
+128
+cores
+Generation 158 of 200:  fitness: -8.210455680888343 age: 25
+Average -2.123461380079039
+
+we have
+128
+cores
+Generation 159 of 200:  fitness: -8.210455680888343 age: 26
+Average -2.112782498606728
+
+we have
+128
+cores
+Generation 160 of 200:  fitness: -8.210455680888343 age: 27
+Average -1.8659484701549358
+
+we have
+128
+cores
+Generation 161 of 200:  fitness: -8.210455680888343 age: 28
+Average -2.071468446617351
+
+we have
+128
+cores
+Generation 162 of 200:  fitness: -8.210455680888343 age: 29
+Average -2.0252493788882777
+
+we have
+128
+cores
+Generation 163 of 200:  fitness: -8.210455680888343 age: 30
+Average -1.955825258266689
+
+we have
+128
+cores
+Generation 164 of 200:  fitness: -8.210455680888343 age: 31
+Average -2.0577855869602213
+
+we have
+128
+cores
+Generation 165 of 200:  fitness: -8.210455680888343 age: 32
+Average -1.965276766677708
+
+we have
+128
+cores
+Generation 166 of 200:  fitness: -8.210455680888343 age: 33
+Average -2.214263097342433
+
+we have
+128
+cores
+Generation 167 of 200:  fitness: -8.210455680888343 age: 34
+Average -1.8619746346889863
+
+we have
+128
+cores
+Generation 168 of 200:  fitness: -8.210455680888343 age: 35
+Average -1.9932078827893924
+
+we have
+128
+cores
+Generation 169 of 200:  fitness: -8.210455680888343 age: 36
+Average -2.000532088495802
+
+we have
+128
+cores
+Generation 170 of 200:  fitness: -8.210455680888343 age: 37
+Average -2.15726269133118
+
+we have
+128
+cores
+Generation 171 of 200:  fitness: -8.210455680888343 age: 38
+Average -2.080835935330874
+
+we have
+128
+cores
+Generation 172 of 200:  fitness: -8.210455680888343 age: 39
+Average -2.0667057425083923
+
+we have
+128
+cores
+Generation 173 of 200:  fitness: -8.210455680888343 age: 40
+Average -2.1099021027163274
+
+we have
+128
+cores
+Generation 174 of 200:  fitness: -8.210455680888343 age: 41
+Average -2.1701812051572444
+
+we have
+128
+cores
+Generation 175 of 200:  fitness: -8.210455680888343 age: 42
+Average -1.9748801790104136
+
+we have
+128
+cores
+Generation 176 of 200:  fitness: -8.210455680888343 age: 43
+Average -1.718167362022559
+
+we have
+128
+cores
+Generation 177 of 200:  fitness: -8.210455680888343 age: 44
+Average -1.7702740705874838
+
+we have
+128
+cores
+Generation 178 of 200:  fitness: -8.210455680888343 age: 45
+Average -1.6426941089573441
+
+we have
+128
+cores
+Generation 179 of 200:  fitness: -8.210455680888343 age: 46
+Average -1.699360598399989
+
+we have
+128
+cores
+Generation 180 of 200:  fitness: -8.210455680888343 age: 47
+Average -1.7374770963328428
+
+we have
+128
+cores
+Generation 181 of 200:  fitness: -8.210455680888343 age: 48
+Average -1.7213106940066545
+
+we have
+128
+cores
+Generation 182 of 200:  fitness: -8.210455680888343 age: 49
+Average -1.548017932015228
+
+we have
+128
+cores
+Generation 183 of 200:  fitness: -8.210455680888343 age: 50
+Average -1.5061709734210762
+
+we have
+128
+cores
+Generation 184 of 200:  fitness: -8.210455680888343 age: 51
+Average -1.7888993587675648
+
+we have
+128
+cores
+Generation 185 of 200:  fitness: -8.210455680888343 age: 52
+Average -1.8302683903700554
+
+we have
+128
+cores
+Generation 186 of 200:  fitness: -8.210455680888343 age: 53
+Average -1.8570021066087432
+
+we have
+128
+cores
+Generation 187 of 200:  fitness: -8.210455680888343 age: 54
+Average -1.4856084758836072
+
+we have
+128
+cores
+Generation 188 of 200:  fitness: -8.210455680888343 age: 55
+Average -1.425097775940734
+
+we have
+128
+cores
+Generation 189 of 200:  fitness: -8.210455680888343 age: 56
+Average -1.443755265364893
+
+we have
+128
+cores
+Generation 190 of 200:  fitness: -8.210455680888343 age: 57
+Average -1.5253681982897147
+
+we have
+128
+cores
+Generation 191 of 200:  fitness: -8.210455680888343 age: 58
+Average -1.5970561494949504
+
+we have
+128
+cores
+Generation 192 of 200:  fitness: -8.210455680888343 age: 59
+Average -1.3926055396589865
+
+we have
+128
+cores
+Generation 193 of 200:  fitness: -8.210455680888343 age: 60
+Average -1.495882963917238
+
+we have
+128
+cores
+Generation 194 of 200:  fitness: -8.210455680888343 age: 61
+Average -1.4360122685237473
+
+we have
+128
+cores
+Generation 195 of 200:  fitness: -8.210455680888343 age: 62
+Average -1.603942174762681
+
+we have
+128
+cores
+Generation 196 of 200:  fitness: -8.210455680888343 age: 63
+Average -1.6993305595773025
+
+we have
+128
+cores
+Generation 197 of 200:  fitness: -8.210455680888343 age: 64
+Average -1.4684538986770341
+
+we have
+128
+cores
+Generation 198 of 200:  fitness: -8.210455680888343 age: 65
+Average -1.4480612609640429
+
+we have
+128
+cores
+Generation 199 of 200:  fitness: -8.210455680888343 age: 66
+Average -1.3669259157523035
+
+*********************************************************
+run: 3
+we have
+128
+cores
+Generation 0 of 200:  fitness: -1.7159915837810302 age: 0
+Average -0.6615278177036368
+
+we have
+128
+cores
+Generation 1 of 200:  fitness: -1.7159915837810302 age: 1
+Average -0.7499626080820438
+
+we have
+128
+cores
+Generation 2 of 200:  fitness: -1.7159915837810302 age: 2
+Average -0.8780685390168227
+
+we have
+128
+cores
+Generation 3 of 200:  fitness: -2.0961328382915743 age: 3
+Average -0.9393251647361788
+
+we have
+128
+cores
+Generation 4 of 200:  fitness: -2.0961328382915743 age: 4
+Average -1.0012108047064259
+
+we have
+128
+cores
+Generation 5 of 200:  fitness: -2.305374388201174 age: 5
+Average -1.009002540446713
+
+we have
+128
+cores
+Generation 6 of 200:  fitness: -2.305374388201174 age: 6
+Average -1.0078782740516876
+
+we have
+128
+cores
+Generation 7 of 200:  fitness: -2.305374388201174 age: 7
+Average -0.9090408478359384
+
+we have
+128
+cores
+Generation 8 of 200:  fitness: -2.305374388201174 age: 8
+Average -0.9742659913078106
+
+we have
+128
+cores
+Generation 9 of 200:  fitness: -2.7892569973284513 age: 4
+Average -1.0422923982524948
+
+we have
+128
+cores
+Generation 10 of 200:  fitness: -2.7892569973284513 age: 5
+Average -1.1086244984498277
+
+we have
+128
+cores
+Generation 11 of 200:  fitness: -2.7892569973284513 age: 6
+Average -1.1091016539991099
+
+we have
+128
+cores
+Generation 12 of 200:  fitness: -2.7892569973284513 age: 7
+Average -1.0706305746762477
+
+we have
+128
+cores
+Generation 13 of 200:  fitness: -2.7892569973284513 age: 8
+Average -1.0976670325701945
+
+we have
+128
+cores
+Generation 14 of 200:  fitness: -2.7892569973284513 age: 9
+Average -1.150172814398889
+
+we have
+128
+cores
+Generation 15 of 200:  fitness: -2.7892569973284513 age: 10
+Average -1.2034586274501506
+
+we have
+128
+cores
+Generation 16 of 200:  fitness: -2.7892569973284513 age: 11
+Average -1.1483380783298653
+
+we have
+128
+cores
+Generation 17 of 200:  fitness: -2.7892569973284513 age: 12
+Average -1.1995441365907842
+
+we have
+128
+cores
+Generation 18 of 200:  fitness: -2.9366239322398715 age: 13
+Average -1.14463858750113
+
+we have
+128
+cores
+Generation 19 of 200:  fitness: -2.9366239322398715 age: 14
+Average -1.1972595720111405
+
+we have
+128
+cores
+Generation 20 of 200:  fitness: -2.9366239322398715 age: 15
+Average -1.0523852206126638
+
+we have
+128
+cores
+Generation 21 of 200:  fitness: -2.9366239322398715 age: 16
+Average -1.167794467459209
+
+we have
+128
+cores
+Generation 22 of 200:  fitness: -2.9366239322398715 age: 17
+Average -1.116068902895414
+
+we have
+128
+cores
+Generation 23 of 200:  fitness: -2.9366239322398715 age: 18
+Average -1.1740767404957877
+
+we have
+128
+cores
+Generation 24 of 200:  fitness: -4.24638846056435 age: 13
+Average -1.1698844393406187
+
+we have
+128
+cores
+Generation 25 of 200:  fitness: -4.24638846056435 age: 14
+Average -1.2478444104134219
+
+we have
+128
+cores
+Generation 26 of 200:  fitness: -4.24638846056435 age: 15
+Average -1.1717228024040145
+
+we have
+128
+cores
+Generation 27 of 200:  fitness: -4.24638846056435 age: 16
+Average -1.1657849286347746
+
+we have
+128
+cores
+Generation 28 of 200:  fitness: -4.24638846056435 age: 17
+Average -1.1050278947770593
+
+we have
+128
+cores
+Generation 29 of 200:  fitness: -4.24638846056435 age: 18
+Average -1.0750566476283818
+
+we have
+128
+cores
+Generation 30 of 200:  fitness: -4.24638846056435 age: 19
+Average -1.1177164509968374
+
+we have
+128
+cores
+Generation 31 of 200:  fitness: -5.01948009883517 age: 0
+Average -1.2407186473142415
+
+we have
+128
+cores
+Generation 32 of 200:  fitness: -5.01948009883517 age: 1
+Average -1.1870991338101615
+
+we have
+128
+cores
+Generation 33 of 200:  fitness: -5.01948009883517 age: 2
+Average -1.0864915614833017
+
+we have
+128
+cores
+Generation 34 of 200:  fitness: -5.01948009883517 age: 3
+Average -1.2565351159256575
+
+we have
+128
+cores
+Generation 35 of 200:  fitness: -5.01948009883517 age: 4
+Average -1.2277550787781024
+
+we have
+128
+cores
+Generation 36 of 200:  fitness: -5.01948009883517 age: 5
+Average -1.3680382634352097
+
+we have
+128
+cores
+Generation 37 of 200:  fitness: -5.01948009883517 age: 6
+Average -1.5284951344770448
+
+we have
+128
+cores
+Generation 38 of 200:  fitness: -5.01948009883517 age: 7
+Average -1.3424494642245974
+
+we have
+128
+cores
+Generation 39 of 200:  fitness: -5.01948009883517 age: 8
+Average -1.2215486018818682
+
+we have
+128
+cores
+Generation 40 of 200:  fitness: -5.01948009883517 age: 9
+Average -1.289127111613019
+
+we have
+128
+cores
+Generation 41 of 200:  fitness: -6.09670747251776 age: 10
+Average -1.3816616546135858
+
+we have
+128
+cores
+Generation 42 of 200:  fitness: -6.09670747251776 age: 11
+Average -1.5199594620217658
+
+we have
+128
+cores
+Generation 43 of 200:  fitness: -6.09670747251776 age: 12
+Average -1.620009095857296
+
+we have
+128
+cores
+Generation 44 of 200:  fitness: -6.09670747251776 age: 13
+Average -1.5624836279936278
+
+we have
+128
+cores
+Generation 45 of 200:  fitness: -6.09670747251776 age: 14
+Average -1.567072335397624
+
+we have
+128
+cores
+Generation 46 of 200:  fitness: -6.09670747251776 age: 15
+Average -1.5125981129630954
+
+we have
+128
+cores
+Generation 47 of 200:  fitness: -6.09670747251776 age: 16
+Average -1.4564199470425336
+
+we have
+128
+cores
+Generation 48 of 200:  fitness: -6.09670747251776 age: 17
+Average -1.5804675454697639
+
+we have
+128
+cores
+Generation 49 of 200:  fitness: -6.09670747251776 age: 18
+Average -1.8404644078976116
+
+we have
+128
+cores
+Generation 50 of 200:  fitness: -6.09670747251776 age: 19
+Average -1.7655237858269524
+
+we have
+128
+cores
+Generation 51 of 200:  fitness: -6.09670747251776 age: 20
+Average -1.641465309497615
+
+we have
+128
+cores
+Generation 52 of 200:  fitness: -6.09670747251776 age: 21
+Average -1.551298221002696
+
+we have
+128
+cores
+Generation 53 of 200:  fitness: -6.09670747251776 age: 22
+Average -1.805384471721844
+
+we have
+128
+cores
+Generation 54 of 200:  fitness: -6.09670747251776 age: 23
+Average -1.5095645203072678
+
+we have
+128
+cores
+Generation 55 of 200:  fitness: -6.09670747251776 age: 24
+Average -1.4815407798493163
+
+we have
+128
+cores
+Generation 56 of 200:  fitness: -6.09670747251776 age: 25
+Average -1.5264987328126083
+
+we have
+128
+cores
+Generation 57 of 200:  fitness: -6.09670747251776 age: 26
+Average -1.666404575022884
+
+we have
+128
+cores
+Generation 58 of 200:  fitness: -6.09670747251776 age: 27
+Average -1.736431689213246
+
+we have
+128
+cores
+Generation 59 of 200:  fitness: -6.09670747251776 age: 28
+Average -2.0943129849573396
+
+we have
+128
+cores
+Generation 60 of 200:  fitness: -6.09670747251776 age: 29
+Average -1.7068158200244097
+
+we have
+128
+cores
+Generation 61 of 200:  fitness: -6.09670747251776 age: 30
+Average -1.6891649658386745
+
+we have
+128
+cores
+Generation 62 of 200:  fitness: -6.09670747251776 age: 31
+Average -1.7425105143897626
+
+we have
+128
+cores
+Generation 63 of 200:  fitness: -6.09670747251776 age: 32
+Average -1.6577370515421785
+
+we have
+128
+cores
+Generation 64 of 200:  fitness: -6.09670747251776 age: 33
+Average -1.6546139083702789
+
+we have
+128
+cores
+Generation 65 of 200:  fitness: -6.09670747251776 age: 34
+Average -1.6195192979068604
+
+we have
+128
+cores
+Generation 66 of 200:  fitness: -6.09670747251776 age: 35
+Average -1.5540268351852498
+
+we have
+128
+cores
+Generation 67 of 200:  fitness: -6.09670747251776 age: 36
+Average -1.5448308857119093
+
+we have
+128
+cores
+Generation 68 of 200:  fitness: -6.09670747251776 age: 37
+Average -1.4576456511970457
+
+we have
+128
+cores
+Generation 69 of 200:  fitness: -7.106394275436733 age: 38
+Average -1.6381691086524741
+
+we have
+128
+cores
+Generation 70 of 200:  fitness: -7.106394275436733 age: 39
+Average -1.5536591482663378
+
+we have
+128
+cores
+Generation 71 of 200:  fitness: -7.106394275436733 age: 40
+Average -1.6275918605492623
+
+we have
+128
+cores
+Generation 72 of 200:  fitness: -7.106394275436733 age: 41
+Average -1.7664949746503575
+
+we have
+128
+cores
+Generation 73 of 200:  fitness: -7.106394275436733 age: 42
+Average -1.5278348080485749
+
+we have
+128
+cores
+Generation 74 of 200:  fitness: -7.106394275436733 age: 43
+Average -1.516364296603696
+
+we have
+128
+cores
+Generation 75 of 200:  fitness: -7.106394275436733 age: 44
+Average -1.5302844593114582
+
+we have
+128
+cores
+Generation 76 of 200:  fitness: -7.106394275436733 age: 45
+Average -1.6075460326814794
+
+we have
+128
+cores
+Generation 77 of 200:  fitness: -7.106394275436733 age: 46
+Average -1.580615669914125
+
+we have
+128
+cores
+Generation 78 of 200:  fitness: -7.106394275436733 age: 47
+Average -1.6121241326452167
+
+we have
+128
+cores
+Generation 79 of 200:  fitness: -7.106394275436733 age: 48
+Average -1.5085764736908727
+
+we have
+128
+cores
+Generation 80 of 200:  fitness: -7.106394275436733 age: 49
+Average -1.705643713661814
+
+we have
+128
+cores
+Generation 81 of 200:  fitness: -7.106394275436733 age: 50
+Average -1.996873790054243
+
+we have
+128
+cores
+Generation 82 of 200:  fitness: -7.106394275436733 age: 51
+Average -1.8270653299105217
+
+we have
+128
+cores
+Generation 83 of 200:  fitness: -7.106394275436733 age: 52
+Average -1.9268371283689176
+
+we have
+128
+cores
+Generation 84 of 200:  fitness: -7.106394275436733 age: 53
+Average -1.8220112216813371
+
+we have
+128
+cores
+Generation 85 of 200:  fitness: -7.106394275436733 age: 54
+Average -1.506102701263384
+
+we have
+128
+cores
+Generation 86 of 200:  fitness: -7.106394275436733 age: 55
+Average -1.655604737281397
+
+we have
+128
+cores
+Generation 87 of 200:  fitness: -7.106394275436733 age: 56
+Average -1.5154862705672734
+
+we have
+128
+cores
+Generation 88 of 200:  fitness: -7.106394275436733 age: 57
+Average -1.545550962842855
+
+we have
+128
+cores
+Generation 89 of 200:  fitness: -7.106394275436733 age: 58
+Average -1.6948162889357834
+
+we have
+128
+cores
+Generation 90 of 200:  fitness: -7.106394275436733 age: 59
+Average -1.5576295230676294
+
+we have
+128
+cores
+Generation 91 of 200:  fitness: -7.106394275436733 age: 60
+Average -1.5209653212068048
+
+we have
+128
+cores
+Generation 92 of 200:  fitness: -7.106394275436733 age: 61
+Average -1.581617214181464
+
+we have
+128
+cores
+Generation 93 of 200:  fitness: -7.106394275436733 age: 62
+Average -1.4763278742354626
+
+we have
+128
+cores
+Generation 94 of 200:  fitness: -7.106394275436733 age: 63
+Average -1.4588962028122907
+
+we have
+128
+cores
+Generation 95 of 200:  fitness: -7.106394275436733 age: 64
+Average -1.6856401680471145
+
+we have
+128
+cores
+Generation 96 of 200:  fitness: -7.106394275436733 age: 65
+Average -1.5311127197965808
+
+we have
+128
+cores
+Generation 97 of 200:  fitness: -7.106394275436733 age: 66
+Average -1.7070965751462044
+
+we have
+128
+cores
+Generation 98 of 200:  fitness: -7.106394275436733 age: 67
+Average -1.717548610092056
+
+we have
+128
+cores
+Generation 99 of 200:  fitness: -7.106394275436733 age: 68
+Average -1.5147126113825848
+
+we have
+128
+cores
+Generation 100 of 200:  fitness: -7.106394275436733 age: 69
+Average -1.8576730696168722
+
+we have
+128
+cores
+Generation 101 of 200:  fitness: -7.106394275436733 age: 70
+Average -2.0906483946276087
+
+we have
+128
+cores
+Generation 102 of 200:  fitness: -7.106394275436733 age: 71
+Average -1.8139501417824642
+
+we have
+128
+cores
+Generation 103 of 200:  fitness: -7.106394275436733 age: 72
+Average -1.688609782098561
+
+we have
+128
+cores
+Generation 104 of 200:  fitness: -7.106394275436733 age: 73
+Average -1.7230793623859881
+
+we have
+128
+cores
+Generation 105 of 200:  fitness: -7.106394275436733 age: 74
+Average -1.9184309871441716
+
+we have
+128
+cores
+Generation 106 of 200:  fitness: -7.106394275436733 age: 75
+Average -1.9000737223016184
+
+we have
+128
+cores
+Generation 107 of 200:  fitness: -7.106394275436733 age: 76
+Average -1.8227474432895172
+
+we have
+128
+cores
+Generation 108 of 200:  fitness: -7.106394275436733 age: 77
+Average -1.9021830526855348
+
+we have
+128
+cores
+Generation 109 of 200:  fitness: -7.106394275436733 age: 78
+Average -1.7473331882472343
+
+we have
+128
+cores
+Generation 110 of 200:  fitness: -7.106394275436733 age: 79
+Average -1.6014447420348856
+
+we have
+128
+cores
+Generation 111 of 200:  fitness: -7.106394275436733 age: 80
+Average -1.9283171236496568
+
+we have
+128
+cores
+Generation 112 of 200:  fitness: -7.106394275436733 age: 81
+Average -1.9843393628561088
+
+we have
+128
+cores
+Generation 113 of 200:  fitness: -7.106394275436733 age: 82
+Average -1.6774258976469831
+
+we have
+128
+cores
+Generation 114 of 200:  fitness: -7.106394275436733 age: 83
+Average -1.5889289945460066
+
+we have
+128
+cores
+Generation 115 of 200:  fitness: -7.106394275436733 age: 84
+Average -1.5583781907265304
+
+we have
+128
+cores
+Generation 116 of 200:  fitness: -7.106394275436733 age: 85
+Average -1.837025338079994
+
+we have
+128
+cores
+Generation 117 of 200:  fitness: -7.106394275436733 age: 86
+Average -1.761666338875579
+
+we have
+128
+cores
+Generation 118 of 200:  fitness: -7.106394275436733 age: 87
+Average -1.836743711409887
+
+we have
+128
+cores
+Generation 119 of 200:  fitness: -7.106394275436733 age: 88
+Average -1.8986210981650757
+
+we have
+128
+cores
+Generation 120 of 200:  fitness: -7.106394275436733 age: 89
+Average -1.903578047774066
+
+we have
+128
+cores
+Generation 121 of 200:  fitness: -7.106394275436733 age: 90
+Average -1.9706619342970404
+
+we have
+128
+cores
+Generation 122 of 200:  fitness: -7.106394275436733 age: 91
+Average -1.6781427211961344
+
+we have
+128
+cores
+Generation 123 of 200:  fitness: -7.106394275436733 age: 92
+Average -1.9876234681484024
+
+we have
+128
+cores
+Generation 124 of 200:  fitness: -7.106394275436733 age: 93
+Average -2.0809324806933702
+
+we have
+128
+cores
+Generation 125 of 200:  fitness: -7.106394275436733 age: 94
+Average -2.0344640277858286
+
+we have
+128
+cores
+Generation 126 of 200:  fitness: -7.106394275436733 age: 95
+Average -2.223703573594929
+
+we have
+128
+cores
+Generation 127 of 200:  fitness: -7.106394275436733 age: 96
+Average -2.0934293021441217
+
+we have
+128
+cores
+Generation 128 of 200:  fitness: -7.106394275436733 age: 97
+Average -2.0058390783828455
+
+we have
+128
+cores
+Generation 129 of 200:  fitness: -7.106394275436733 age: 98
+Average -2.4310799842064514
+
+we have
+128
+cores
+Generation 130 of 200:  fitness: -7.106394275436733 age: 99
+Average -2.271985859184351
+
+we have
+128
+cores
+Generation 131 of 200:  fitness: -7.106394275436733 age: 100
+Average -2.11771237196907
+
+we have
+128
+cores
+Generation 132 of 200:  fitness: -7.106394275436733 age: 101
+Average -2.0156361816080217
+
+we have
+128
+cores
+Generation 133 of 200:  fitness: -7.106394275436733 age: 102
+Average -2.0024051372384775
+
+we have
+128
+cores
+Generation 134 of 200:  fitness: -7.106394275436733 age: 103
+Average -2.050599652516249
+
+we have
+128
+cores
+Generation 135 of 200:  fitness: -7.106394275436733 age: 104
+Average -1.8570239645389004
+
+we have
+128
+cores
+Generation 136 of 200:  fitness: -7.106394275436733 age: 105
+Average -1.8530713778164476
+
+we have
+128
+cores
+Generation 137 of 200:  fitness: -7.106394275436733 age: 106
+Average -1.7116613246192267
+
+we have
+128
+cores
+Generation 138 of 200:  fitness: -7.106394275436733 age: 107
+Average -1.574941575428801
+
+we have
+128
+cores
+Generation 139 of 200:  fitness: -7.106394275436733 age: 108
+Average -1.5910550705795763
+
+we have
+128
+cores
+Generation 140 of 200:  fitness: -7.106394275436733 age: 109
+Average -1.6694592984785992
+
+we have
+128
+cores
+Generation 141 of 200:  fitness: -7.106394275436733 age: 110
+Average -1.7708241621299985
+
+we have
+128
+cores
+Generation 142 of 200:  fitness: -7.106394275436733 age: 111
+Average -1.6961948149948483
+
+we have
+128
+cores
+Generation 143 of 200:  fitness: -7.106394275436733 age: 112
+Average -1.773915323374667
+
+we have
+128
+cores
+Generation 144 of 200:  fitness: -7.106394275436733 age: 113
+Average -1.7285732067263624
+
+we have
+128
+cores
+Generation 145 of 200:  fitness: -7.106394275436733 age: 114
+Average -1.7646752540059492
+
+we have
+128
+cores
+Generation 146 of 200:  fitness: -7.106394275436733 age: 115
+Average -1.712896042888878
+
+we have
+128
+cores
+Generation 147 of 200:  fitness: -7.106394275436733 age: 116
+Average -1.7065024722695514
+
+we have
+128
+cores
+Generation 148 of 200:  fitness: -7.106394275436733 age: 117
+Average -1.6727288755597953
+
+we have
+128
+cores
+Generation 149 of 200:  fitness: -7.106394275436733 age: 118
+Average -1.6081504430799631
+
+we have
+128
+cores
+Generation 150 of 200:  fitness: -7.106394275436733 age: 119
+Average -1.91163818408569
+
+we have
+128
+cores
+Generation 151 of 200:  fitness: -7.106394275436733 age: 120
+Average -2.004945718114288
+
+we have
+128
+cores
+Generation 152 of 200:  fitness: -7.106394275436733 age: 121
+Average -2.0475801103719222
+
+we have
+128
+cores
+Generation 153 of 200:  fitness: -7.106394275436733 age: 122
+Average -2.1399025140711116
+
+we have
+128
+cores
+Generation 154 of 200:  fitness: -7.106394275436733 age: 123
+Average -2.272857894203001
+
+we have
+128
+cores
+Generation 155 of 200:  fitness: -7.106394275436733 age: 124
+Average -2.1089985136889196
+
+we have
+128
+cores
+Generation 156 of 200:  fitness: -7.106394275436733 age: 125
+Average -2.0062716983814335
+
+we have
+128
+cores
+Generation 157 of 200:  fitness: -7.106394275436733 age: 126
+Average -1.86771123204135
+
+we have
+128
+cores
+Generation 158 of 200:  fitness: -7.106394275436733 age: 127
+Average -1.8192225091243643
+
+we have
+128
+cores
+Generation 159 of 200:  fitness: -7.106394275436733 age: 128
+Average -1.8172937807179281
+
+we have
+128
+cores
+Generation 160 of 200:  fitness: -7.106394275436733 age: 129
+Average -1.9221689274532363
+
+we have
+128
+cores
+Generation 161 of 200:  fitness: -7.106394275436733 age: 130
+Average -1.9232395575923134
+
+we have
+128
+cores
+Generation 162 of 200:  fitness: -7.106394275436733 age: 131
+Average -1.8922537343231383
+
+we have
+128
+cores
+Generation 163 of 200:  fitness: -7.106394275436733 age: 132
+Average -1.6680859729414086
+
+we have
+128
+cores
+Generation 164 of 200:  fitness: -7.106394275436733 age: 133
+Average -1.6651332741073757
+
+we have
+128
+cores
+Generation 165 of 200:  fitness: -7.106394275436733 age: 134
+Average -1.601249028653501
+
+we have
+128
+cores
+Generation 166 of 200:  fitness: -7.106394275436733 age: 135
+Average -1.5114994189854738
+
+we have
+128
+cores
+Generation 167 of 200:  fitness: -7.106394275436733 age: 136
+Average -1.6342282994012627
+
+we have
+128
+cores
+Generation 168 of 200:  fitness: -7.106394275436733 age: 137
+Average -1.9050055979861313
+
+we have
+128
+cores
+Generation 169 of 200:  fitness: -7.106394275436733 age: 138
+Average -1.959936445748066
+
+we have
+128
+cores
+Generation 170 of 200:  fitness: -7.106394275436733 age: 139
+Average -1.9711733479128057
+
+we have
+128
+cores
+Generation 171 of 200:  fitness: -7.106394275436733 age: 140
+Average -1.8446803478505145
+
+we have
+128
+cores
+Generation 172 of 200:  fitness: -7.106394275436733 age: 141
+Average -1.9285281440190145
+
+we have
+128
+cores
+Generation 173 of 200:  fitness: -7.106394275436733 age: 142
+Average -2.05771071067056
+
+we have
+128
+cores
+Generation 174 of 200:  fitness: -7.106394275436733 age: 143
+Average -1.9059543868072633
+
+we have
+128
+cores
+Generation 175 of 200:  fitness: -7.106394275436733 age: 144
+Average -1.903198642809059
+
+we have
+128
+cores
+Generation 176 of 200:  fitness: -7.106394275436733 age: 145
+Average -2.025676977936071
+
+we have
+128
+cores
+Generation 177 of 200:  fitness: -7.106394275436733 age: 146
+Average -2.016553147336211
+
+we have
+128
+cores
+Generation 178 of 200:  fitness: -7.106394275436733 age: 147
+Average -1.9557582035623882
+
+we have
+128
+cores
+Generation 179 of 200:  fitness: -7.106394275436733 age: 148
+Average -1.9003235290497857
+
+we have
+128
+cores
+Generation 180 of 200:  fitness: -7.106394275436733 age: 149
+Average -2.0370011919403463
+
+we have
+128
+cores
+Generation 181 of 200:  fitness: -7.106394275436733 age: 150
+Average -2.042115911653915
+
+we have
+128
+cores
+Generation 182 of 200:  fitness: -7.106394275436733 age: 151
+Average -2.1044155072815895
+
+we have
+128
+cores
+Generation 183 of 200:  fitness: -7.106394275436733 age: 152
+Average -1.9890897276252173
+
+we have
+128
+cores
+Generation 184 of 200:  fitness: -7.106394275436733 age: 153
+Average -2.208302712072534
+
+we have
+128
+cores
+Generation 185 of 200:  fitness: -7.106394275436733 age: 154
+Average -2.2490777778433393
+
+we have
+128
+cores
+Generation 186 of 200:  fitness: -7.106394275436733 age: 155
+Average -1.9150354616053462
+
+we have
+128
+cores
+Generation 187 of 200:  fitness: -7.106394275436733 age: 156
+Average -1.8978801142457602
+
+we have
+128
+cores
+Generation 188 of 200:  fitness: -7.106394275436733 age: 157
+Average -2.1633973468921393
+
+we have
+128
+cores
+Generation 189 of 200:  fitness: -7.106394275436733 age: 158
+Average -2.1634132691377435
+
+we have
+128
+cores
+Generation 190 of 200:  fitness: -7.106394275436733 age: 159
+Average -2.207898923405112
+
+we have
+128
+cores
+Generation 191 of 200:  fitness: -7.106394275436733 age: 160
+Average -2.4007420096689325
+
+we have
+128
+cores
+Generation 192 of 200:  fitness: -7.106394275436733 age: 161
+Average -1.7578072793095714
+
+we have
+128
+cores
+Generation 193 of 200:  fitness: -7.106394275436733 age: 162
+Average -1.703663459757682
+
+we have
+128
+cores
+Generation 194 of 200:  fitness: -7.106394275436733 age: 163
+Average -1.6504549825502468
+
+we have
+128
+cores
+Generation 195 of 200:  fitness: -7.106394275436733 age: 164
+Average -1.5103187608633044
+
+we have
+128
+cores
+Generation 196 of 200:  fitness: -7.106394275436733 age: 165
+Average -1.4892503943952138
+
+we have
+128
+cores
+Generation 197 of 200:  fitness: -7.106394275436733 age: 166
+Average -1.5365956809164318
+
+we have
+128
+cores
+Generation 198 of 200:  fitness: -7.106394275436733 age: 167
+Average -1.7225397856976798
+
+we have
+128
+cores
+Generation 199 of 200:  fitness: -7.106394275436733 age: 168
+Average -1.9496932245621346
+
