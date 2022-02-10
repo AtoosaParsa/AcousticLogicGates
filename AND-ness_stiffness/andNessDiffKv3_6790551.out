@@ -1,0 +1,11 @@
+Starting sbatch script myscript.sh at:Tue Nov 23 02:58:17 EST 2021
+  running host:    node337
+  assigned nodes:  node337
+  partition used:  bluemoon
+  jobid:           6790551
+*********************************************************
+run: 1
+we have
+128
+cores
+Generation 0 of 200: slurmstepd: error: *** JOB 6790551 ON node337 CANCELLED AT 2021-11-23T02:59:21 ***
