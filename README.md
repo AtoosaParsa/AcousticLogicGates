@@ -6,7 +6,7 @@ This repository contains the code for the experiments in the following paper:
 [Atoosa Parsa, Dong Wang, Corey S. O’Hern, Mark D. Shattuck, Rebecca Kramer-Bottiglio, and Josh Bongard. (2022, April). Evolution of Acoustic Logic Gates in Granular Metamaterials. In International Conference on the Applications of Evolutionary Computation (Part of EvoStar) (pp. 93-109). Cham: Springer International Publishing.](https://link.springer.com/chapter/10.1007/978-3-031-02462-7_7)
 
 <p align="center">
-  <img src="https://github.com/AtoosaParsa/AcousticLogicGates/problemSetup.png"  width="700">
+  <img src="https://github.com/AtoosaParsa/AcousticLogicGates/blob/main/problemSetup.png"  width="700">
 </p>
 
 </br>
@@ -14,7 +14,6 @@ This repository contains the code for the experiments in the following paper:
 
 [Watch a video of the simulation.](https://youtu.be/LCoa97Znx5I)
 
-<br/> 
 <br/> 
 
 Bibtex
